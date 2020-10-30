@@ -2,7 +2,7 @@
   "name": "swffg-critical-hits",
   "title": "Star Wars FFG Critical Hits",
   "description": "A module containing compendium packs for critical injuries, critical damages, roll tables, and macros for the Star Wars RPG by Fantasy Flight Games.",
-  "author": "Lexielai",
+  "author": "Alex Lai",
   "version": "1.0.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.7.5",
@@ -31,5 +31,8 @@
       "path": "packs/swffgcriticalhitsmacros",
       "entity": "Macro"
     }
-  ]
+  ],
+  "url": "https://github.com/laialex501/swffg-critical-hits",
+  "manifest": "https://github.com/laialex501/swffg-critical-hits/raw/main/module.json",
+  "download": "https://github.com/laialex501/swffg-critical-hits/archive/main.zip"
 }
